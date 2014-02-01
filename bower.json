@@ -1,0 +1,21 @@
+{
+  "name": "fishtank",
+  "version": "0.0.0",
+  "homepage": "https://github.com/azirbel/fishtank",
+  "authors": [
+    "Alex Zirbel <alexzirbel@gmail.com>"
+  ],
+  "description": "Genetic Algorithm Fish Tank",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "grunt": "~0.4.2",
+    "easeljs": "*"
+  }
+}
